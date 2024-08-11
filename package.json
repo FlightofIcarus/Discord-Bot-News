@@ -1,0 +1,19 @@
+{
+  "name": "bot-kipper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Icaro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "googleapis": "^133.0.0",
+    "node-cron": "^3.0.3"
+  }
+}

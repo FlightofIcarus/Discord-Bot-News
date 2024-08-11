@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Dependency management
+# It's generally recommended to commit package-lock.json
+package-lock.json
